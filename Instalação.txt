@@ -1,0 +1,35 @@
+💢 >COMANDOS BÁSICOS DO TERMUX<💢
+
+
+cole cada comando por vez e sempre da "y"
+
+
+ 1°     pkg upgrade -y && pkg update -y && pkg install git -y && pkg install nodejs -y && pkg install nodejs-lts -y
+
+
+
+2°     termux-setup-storage
+
+
+esses comando abaixo você vai escolher o terceiro ou o quarto para localizar aonde está a pasta, exemplo se você baixou pelo MediaFire você vai usar o quarto, já se você baixou está no arquivo principal você vai usar o terceiro!
+
+
+3°     cd /sdcard/TAIGA-BOT2
+
+
+4°     cd /sdcard/download/TAIGA-BOT2
+
+
+5°     pkg install ffmpeg -y && pkg install tesseract -y && pkg install python -y 
+
+
+
+6°    pkg install ffmpeg -y && pkg install wget -y
+
+
+
+
+ 7°      sh start.sh
+
+
+pronto agora é só escanear o QR code de ser feliz
