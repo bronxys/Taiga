@@ -10,23 +10,25 @@ return `╭───「 ${nomebot} 」
 ├⪧ 𝗗𝗮𝘁𝗮: ${date}
 ├⪧ 𝗖𝗼𝗺𝗮𝗻𝗱𝗼: ${comando}
 ╰───────── •
-${readmore}
-╭───[ 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝘀 ]
-├⪧ ${prefixo}playaudio [nome]
-├⪧ ${prefixo}playvideo [nome]
-├⪧ ${prefixo}playmix [cantor]
-├⪧ ${prefixo}tiktokvideo [link]
-├⪧ ${prefixo}tiktokaudio [link]
-├⪧ ${prefixo}Mediafire {link}
-╰─────── • 
 
+╭───[ 𝗟𝗜𝗦𝗧𝗔 𝗗𝗘 𝗠𝗘𝗡𝗨𝗦 ]
+├⪧ ${prefixo}menuadm
+├⪧ ${prefixo}menudownload
+├⪧ ${prefixo}menubrincadeira
+├⪧ ${prefixo}menusticker
+├⪧ ${prefixo}menupremium
+├⪧ ${prefixo}menupokemon
+├⪧ ${prefixo}menuimagem
+├⪧ ${prefixo}menudono
+╰─────── • 
+${readmore}
 ╭───[ 𝗢𝘂𝘁𝗿𝗼𝘀 ]
-├⪧ ${prefixo}bard [pergunta]
+├⪧ ${prefixo}gemini [pergunta]
+├⪧ ${prefixo}gpt [pergunta] 
+├⪧ ${prefixo}dono
+├⪧ ${prefixo}ia-img 
 ├⪧ ${prefixo}gerarnick [texto]
-├⪧ ${prefixo}link
-├⪧ ${prefixo}descobrirmusica [ft/vd]
 ├⪧ ${prefixo}metadinha
-├⪧ ${prefixo}reiniciar
 ├⪧ ${prefixo}listonline
 ├⪧ ${prefixo}pinterest [desejo]
 ├⪧ ${prefixo}converter [video]
@@ -36,6 +38,22 @@ ${readmore}
 ├⪧ ${prefixo}gtts pt [texto]
 ├⪧ ${prefixo}idiomas-gtts
 ├⪧ ${prefixo}tabela
+╰─────── • 
+
+╭───[ 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝘀 ]
+├⪧ ${prefixo}playaudio [nome]
+├⪧ ${prefixo}playvideo [nome]
+├⪧ ${prefixo}musica [nome]
+├⪧ ${prefixo}play [nome]
+├⪧ ${prefixo}play2 [nome]
+├⪧ ${prefixo}ytmp3 [link]
+├⪧ ${prefixo}ytmp4 [link]
+├⪧ ${prefixo}instagram [link]
+├⪧ ${prefixo}tiktokvideo [link]
+├⪧ ${prefixo}tiktokaudio [link]
+├⪧ ${prefixo}ttkmp3 [link]
+├⪧ ${prefixo}ttkmp4 [link]
+├⪧ ${prefixo}Mediafire {link}
 ╰─────── • 
 
 ╭───[ 𝗔𝗱𝗺𝗶𝗻𝘀 ]
@@ -53,6 +71,8 @@ ${readmore}
 ├⪧ ${prefixo}autoban 1/0
 ├⪧ ${prefixo}autosticker 1/0
 ├⪧ ${prefixo}x9visu 1/0
+├⪧ ${prefixo}bangp
+├⪧ ${prefixo}unbangp
 ├⪧ ${prefixo}listanegra [558788...]
 ├⪧ ${prefixo}tirardalista [558788...]
 ├⪧ ${prefixo}hidetag [texto]
@@ -110,10 +130,12 @@ ${readmore}
 ├⪧ ${prefixo}mina
 ├⪧ ${prefixo}mineshelp
 ├⪧ ${prefixo}minareset
+├⪧ ${prefixo}correio +558788../oii
 ╰─────── • 
 
 ╭───[ 𝗦𝘁𝗶𝗰𝗸𝗲𝗿𝘀 ]
 ├⪧ ${prefixo}sticker [marcar]
+├⪧ ${prefixo}qc
 ├⪧ ${prefixo}f [marcar]
 ├⪧ ${prefixo}ttp [texto]
 ├⪧ ${prefixo}toimg [marcar]
@@ -124,8 +146,7 @@ ${readmore}
 ├⪧ ${prefixo}attp4 [texto]
 ├⪧ ${prefixo}attp5 [texto]
 ├⪧ ${prefixo}attp6 [texto]
-├⪧ ${prefixo}roubar 
-├⪧ ${prefixo}emoji [😍]
+├⪧ ${prefixo}roubar [txt|txt]
 ╰─────── • 
 
 ╭──[ 𝗜𝗺𝗮𝗴𝗲𝗻𝘀 ]
@@ -187,15 +208,65 @@ ${readmore}
 ├⪧ ${prefixo}cringe
 ╰─────── • 
 
+╭──[ 𝗣𝗼𝗸𝗲́𝗺𝗼𝗻 ]
+├⪧ ${prefixo}pokemon [texto]
+├⪧ ${prefixo}nidorino 
+├⪧ ${prefixo}nidoking 
+├⪧ ${prefixo}clefairy 
+├⪧ ${prefixo}vulpix 
+├⪧ ${prefixo}pikachu 
+├⪧ ${prefixo}bulbasaur 
+├⪧ ${prefixo}raticate 
+├⪧ ${prefixo}pidgeot 
+├⪧ ${prefixo}pidgeotto 
+├⪧ ${prefixo}beedrill 
+├⪧ ${prefixo}pidgey 
+├⪧ ${prefixo}weedle 
+├⪧ ${prefixo}caterpie 
+├⪧ ${prefixo}blastoise 
+├⪧ ${prefixo}wartortle 
+├⪧ ${prefixo}sandshrew 
+├⪧ ${prefixo}raichu 
+├⪧ ${prefixo}arbok 
+├⪧ ${prefixo}ekans 
+├⪧ ${prefixo}fearow 
+├⪧ ${prefixo}spearow 
+├⪧ ${prefixo}rattata 
+├⪧ ${prefixo}charmander 
+├⪧ ${prefixo}charmeleon 
+├⪧ ${prefixo}charizard 
+├⪧ ${prefixo}ivysaur 
+├⪧ ${prefixo}squirtle 
+╰─────── • 
+
+╭──[ 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 ]
+├⪧ ${prefixo}transcrever [audio]
+├⪧ ${prefixo}descobrirmusica [aud|vid]
+├⪧ ${prefixo}playmix [cantor]
+├⪧ ${prefixo}encurtalink [link]
+├⪧ ${prefixo}gerarlink [imagem]
+├⪧ ${prefixo}ddd [87]
+├⪧ ${prefixo}gerarcpf
+├⪧ ${prefixo}hentai-neko
+╰─────── • 
+
 ╭──[ 𝗗𝗼𝗻𝗼 ]
 ├⪧ ${prefixo}seradm
 ├⪧ ${prefixo}sermenbro
-├⪧ ${prefixo}boton 1/0
-├⪧ ${prefixo}botoff 1/0
+├⪧ ${prefixo}addpremium
+├⪧ ${prefixo}delpremium
+├⪧ ${prefixo}premiumlist
+├⪧ ${prefixo}listagp
+├⪧ ${prefixo}prefixo 
+├⪧ ${prefixo}ativarbot [1/0]
 ├⪧ ${prefixo}sair 
+├⪧ ${prefixo}reiniciar
 ├⪧ ${prefixo}entrar [link]
 ├⪧ ${prefixo}ausente [texto]
 ├⪧ ${prefixo}voltei
+├⪧ ${prefixo}antipv [1/0]
+├⪧ ${prefixo}antipv_on 
+├⪧ ${prefixo}antipv_off
 ╰─────── • 
 `
 }
